@@ -1,6 +1,6 @@
 # TinDog Website 🐶
 
-A responsive landing page built as part of Dr. Angela Yu's Web Development Bootcamp.
+A responsive startup landing page built using HTML, CSS, and Bootstrap, focusing on modern UI design and mobile-first development.
 
 ## 🚀 Features
 - Fully responsive design
@@ -12,8 +12,3 @@ A responsive landing page built as part of Dr. Angela Yu's Web Development Bootc
 - HTML
 - CSS
 - Bootstrap
-
-## 📌 What I Learned
-- Bootstrap grid system
-- Responsive design
-- UI structuring
